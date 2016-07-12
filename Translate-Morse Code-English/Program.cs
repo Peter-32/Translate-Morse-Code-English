@@ -1,17 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-// International Morse Code rules:
-// 1) The length of a short is one unit.
-// 2) The length of a long is three units.
-// 3) The space between parts of the same letter is one unit.
-// 4) The space between letters is three units.
-// 5) The space between words is seven units.
-// This implementation does not pay attention to some punctuation symbols when doing translations.
-// This implementation doesn't work with sound files
 namespace Translate_Morse_Code_English
 {
     class Program
@@ -180,6 +170,7 @@ namespace Translate_Morse_Code_English
             { '!', new List<MorseCodeSymbol> { MorseCodeSymbol.LONG, MorseCodeSymbol.SHORTBREAK, MorseCodeSymbol.LONG, MorseCodeSymbol.SHORTBREAK, MorseCodeSymbol.LONG, MorseCodeSymbol.SHORTBREAK, MorseCodeSymbol.SHORT } }
         };
 
+        // The key is a string
         static Dictionary<string, char> morseCodeToEnglishLookup = new Dictionary<string, char>
         {
             { ", SHORT, SHORTBREAK, LONG", 'a' },
