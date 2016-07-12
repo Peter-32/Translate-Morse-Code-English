@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate-Morse Code-English", "Translate-Morse Code-English\Translate-Morse Code-English.csproj", "{50383A96-2269-4561-A211-F5E79DE8360A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate-Morse-English Test", "Translate-Morse-English Test\Translate-Morse-English Test.csproj", "{5EE63C40-9F13-4834-B36E-07531DB75790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{50383A96-2269-4561-A211-F5E79DE8360A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50383A96-2269-4561-A211-F5E79DE8360A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50383A96-2269-4561-A211-F5E79DE8360A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE63C40-9F13-4834-B36E-07531DB75790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE63C40-9F13-4834-B36E-07531DB75790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE63C40-9F13-4834-B36E-07531DB75790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE63C40-9F13-4834-B36E-07531DB75790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

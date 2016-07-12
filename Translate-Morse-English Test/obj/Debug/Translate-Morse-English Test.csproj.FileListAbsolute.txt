@@ -1,0 +1,8 @@
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\obj\Debug\Translate-Morse-English Test.csprojResolveAssemblyReference.cache
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\bin\Debug\Translate-Morse-English Test.dll
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\bin\Debug\Translate-Morse-English Test.pdb
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\obj\Debug\Translate-Morse-English Test.dll
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\obj\Debug\Translate-Morse-English Test.pdb
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\bin\Debug\Translate-Morse Code-English.exe
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Translate-Morse Code-English\Translate-Morse Code-English\Translate-Morse-English Test\bin\Debug\Translate-Morse Code-English.pdb
